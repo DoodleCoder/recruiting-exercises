@@ -1,0 +1,6 @@
+{apple:5, banana:7} [{name: dm, inventory: {apple: 10, banana:10}}]
+{apple: 15, banana: 8}, [{name: pm, inventory: {apple: 20}}]
+{ apple: 1 }, [{ name: owd, inventory: { apple: 0 } }]
+{apple: 10, banana: 10}, [{name: am, inventory: {apple: 4, banana: 6}}, {name: bm, inventory: {apple: 6, banana: 3, orange: 10}}]
+{apple: 25, berry: 7, banana: 5, orange: 17}, [{name: owd, inventory: {apple: 5, orange: 10 }}, {name: dm, inventory: {banana: 5, orange: 10 }}, {name:pqr, inventory:{berry:10, orange:10}}, {name: asd, inventory:{apple:20}}]
+{ apple: 1 }, [{ name: owd, inventory: { apple: 1 } }]
