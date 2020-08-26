@@ -17,11 +17,3 @@ Logic -
 
 Run -
 python deliverr.py
-
-Output format - 
-=================================================================
-INPUT-
-<input from testcases.txt>
-OUTPUT-
-<Output generated after processing>
-=================================================================
